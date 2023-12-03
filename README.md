@@ -1,0 +1,2 @@
+# Enhancing-Intelligent-HVAC-Management-Using-Large-Language-Models-A-Case-Study-of-ChatGPT
+ChatGPT may face challenges in handling certain complex situations and specific domain knowledge, its powerful natural language understanding and generation capabilities bring new possibilities to the intelligent HVAC field, providing potential solutions for residents to achieve convenient, energy-saving, comfortable, and safe living experiences.
